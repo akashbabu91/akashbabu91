@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akash Babu
-- 👀 I’m interested in Microservices, Automation and a big propopent of running things in the cloud (AWS )
+- 👀 I’m interested in Microservices, Automation and a big proponent of running things in the cloud (AWS )
 - 📫 How to reach me: akash.babu@clarabridge.com or via slack DM (within Clarabridge)
 
 <!---
